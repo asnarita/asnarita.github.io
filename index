@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<title>ASNARITA</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<style>
+body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
+</style>
+<body style="background-color: rgb(197, 86, 104);"
+
+<!-- w3-content defines a container for fixed size centered content, 
+and is wrapped around the whole page content, except for the footer in this example -->
+<div class="w3-content" style="max-width:1400px">
+
+<!-- Header -->
+<header class="w3-container w3-center w3-padding-32"> 
+  <h1><b>WEBSITE STIE Indonesia PONTIANAK</b></h1>
+  <p>Welcome to the blog of <span class="w3-tag">unknown</span></p>
+</header>
+
+<!-- Grid -->
+<div class="w3-row">
+
+<!-- Blog entries -->
+<div class="w3-col l8 s12">
+  <!-- Blog entry -->
+  <div class="w3-card-4 w3-margin w3-white">
+    <div> <img src="img/download.jpg"></div><!-- <img/    vstyle="width:100%"> -->
+    <div class="w3-container">
+      <h3><PENGERTIAN DAN KARAKTERISTIK E-LEARNING
+        E-learb>Elearning STIE Indonesia Pontianak
+        ning adalah suatu sistem atau konsep pendidikan yang memanfaatkan teknologi informasi dalam proses belajar mengajar. Berikut beberapa pengertian E-learning dari berbagai sumber:
+        
+        Pembelajaran yang disusun dengan tujuan menggunakan sistem elektronik atau komputer sehingga mampu mendukung proses pembelajaran (Michael, 2013:27).
+        Proses pembelajaran jarak jauh dengan menggabungkan prinsip-prinsip dalam proses pembelajaran dengan teknologi (Chandrawati, 2010).
+        Sistem pembelajaran yang digunakan sebagai sarana untuk proses belajar mengajar yang dilaksanakan tanpa harus bertatap muka secara langsung antara guru dengan siswa (Ardiansyah, 2013).
+        Karakteristik E-learning
+        
+        Menurut Rosenberg (2001) karakteristik E-learning bersifat jaringan, yang membuatnya mampu memperbaiki secara cepat, menyimpan atau memunculkan kembali, mendistribusikan, dan sharing pembelajaran dan informasi.
+        
+        Karakteristik E-learning menurut Nursalam (2008:135) adalah:
+        
+        Memanfaatkan jasa teknologi elektronik.
+        Memanfaatkan keunggulan komputer (digital media dan komputer networks)
+        Menggunakan bahan ajar yang bersifat mandiri (self learning materials) kemudian disimpan di komputer, sehingga dapat diakses oleh doesen dan mahasiswa kapan saja dan dimana saja.
+        Memanfaatkan jadwal pembelajaran, kurikulum, hasil kemajuan belajar, dan hal-hal yang berkaitan dengan administrasi pendidikan dapat dilihat setiap saat di komputer
+        silahkan kunjungi website Elearning STIE Indonesia Pontianak di Website ini ELEARNING STIE INDONESIA PONTIANAK</b></h3>
+      <h5>Title description, <span class="w3-opacity">November, 8 2021</span></h5>
+    </div>
+
+    <div class="w3-container">
+      <p>.</p>
+      <div class="w3-row">
+        <div class="w3-col m8 s12">
+          <p><button class="w3-button w3-padding-large w3-white w3-border"><b>READ MORE »</b></button></p>
+        </div>
+        <div class="w3-col m4 w3-hide-small">
+          <p><span class="w3-padding-large w3-right"><b>Comments  </b> <span class="w3-tag">0</span></span></p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr>
+
+  <div></div><!-- Blog entry -->
+  <div class="w3-card-4 w3-margin w3-white">
+  <img src="img/IMG-20191028-WA0001.jpg"Norway" style="width:100%">
+    <div class="w3-container">
+      <h3><b>Visi & Misi</b></h3>
+      <h5>Visi & Misi
+        11 Oktober 2018 - Admin <span class="w3-opacity">November 8, 2021</span></h5>
+    </div>
+
+    <div class="w3-container">
+      <p>Visi  :
+        “Menjadikan STIE Indonesia Pontianak sebagai Sekolah Tinggi yang menghasilkan sumber daya manusia di bidang manajemen dan akuntansi yang unggul, mandiri, dan berbudaya multikultural di Indonesia.”
+        
+        Misi :
+        Menyelenggarakan proses pembelajaran yang berkualitas.
+        Meningkatkan produktivitas tenaga pendidik di bidang Tridharma Perguruan Tinggi.
+        Meningkatkan kualifikasi dan kompetensi tenaga pendidik dan tenaga kependidikan.
+        Mengembangkan kemitraan dengan berbagai pihak untuk penerapan dan pengembangan Ilmu Akuntansi dan Manajemen.
+        
+        Tujuan :
+        Menghasilkan Sarjana Manajemen yang berjiwa-wirausaha dan mampu menerapkan prinsip-prinsip manajemen untuk meningkatkan kinerja organisasi baik organisasi bisnis maupun nonbisnis.
+        Menghasilkan publikasi ilmiah melalui penelitian yang berkualitas dan inovatif untuk menunjang pembangunan nasional.
+        Membangun kerjasama yang berkelanjutan dengan masyarakat, sektor swasta, pemerintah dan lembaga-lembaga internasional dalam pengembangan iptek.Visi  :
+
+        “Menjadikan STIE Indonesia Pontianak sebagai Sekolah Tinggi yang menghasilkan sumber daya manusia di bidang manajemen dan akuntansi yang unggul, mandiri, dan berbudaya multikultural di Indonesia.”
+        
+        </p>
+      <div class="w3-row">
+        <div class="w3-col m8 s12">
+          <p><button class="w3-button w3-padding-large w3-white w3-border"><b>READ MORE »</b></button></p>
+        </div>
+        <div class="w3-col m4 w3-hide-small">
+          <p><span class="w3-padding-large w3-right"><b>Comments  </b> <span class="w3-badge">2</span></span></p>
+        </div>
+      </div>
+    </div>
+  </div>
+<!-- END BLOG ENTRIES -->
+</div>
+
+<!-- Introduction menu -->
+<div class="w3-col l4">
+<header></header>  <!-- About Card -->
+  <div class="w3-card w3-margin w3-margin-top">
+    <img src="img/IMG-20200410-WA0002.jpg" alt=""> <!-- <img src="img> --
+class="w3-container w3-white">
+<h4><STIE 'INDONESIA' Pontianak, ASMI & STBA Pontianak</b></h4>
+      <p>Yayasan atau badan hukum penyelenggara Sekolah Tinggi llmu Ekonomi ‘Indonesia’ Pontianak merupakan Yayasan Pendidikan Indograha Manajemen yang didirikan pada tanggal 12 Maret 1992 berdasarkan Akte Notaris Sri Rohani Wahyudi, S.H No. 34 dan telah terdaftar di Pengadilan Negeri Pontianak No. 08/Y.Y.PENDAF/1992/PN.PTK serta telah mendapat pengesahan Menteri Hukum dan HAM SK No. AHU 2276.AH.01.04 tahun 2010. Berdasarkan Surat Keputusan No. 073/D/O/1998, Menteri Pendidikan dan Kebudayaan R.I.cq. Direktorat Jenderal Pendidikan Tinggi cq. Kopertis XI Depdikbud R.I., maka didirikan Sekolah Tinggi llmu Ekonomi ‘Indonesia’ Pontianak (STIE ‘Indonesia’ Pontianak) yang menyelenggarakan Pendidikan di bidang ilmu Manajemen (Program Sarjana/S1) dan Akuntansi (Program Diploma Tiga/DIII) dimana diharapkan dapat menghasilkan lulusan yang mampu :
+
+        Mengisi jabatan-jabatan dan dapat melaksanakan tugas di bidang Manajemen dan Akuntansi;
+        Mampu memajukan /mengembangkan perusahaan/lembaga tempat bekerja;
+        Mampu mengamati, menganalisa serta mengamalkan ilmu pengetahuannya untuk melakukan pekerjaan praktek di bidang Manajemen dan Akuntansi;
+        Mampu memberikan penjelasan dan informasi tentang seluk beluk bidang Manajemen dan Akuntansi kepada masyarakat;
+        Memahami dasar-dasar ilmu pengetahuan pada umumnya serta ilmu sosial ekonomi pada khususnya.</p>
+    </div>
+  </div><hr>
+  
+  <!-- Posts -->
+  <div class="w3-card w3-margin">
+    <div class="w3-container w3-padding">
+      <h4>Popular Posts</h4>
+    </div>
+    <ul class="w3-ul w3-hoverable w3-white">
+      <li class="w3-padding-16">
+        <img src="/img/gambar4.jpg" alt="Image" class="w3-left w3-margin-right" style="width:50px">
+        <span class="w3-large">Lorem</span><br>
+        <span>Sed mattis nunc</span>
+      </li>
+      <li class="w3-padding-16">
+        <img src="/img/gambar5.jpg" alt="Image" class="w3-left w3-margin-right" style="width:50px">
+        <span class="w3-large">Ipsum</span><br>
+        <span>Praes tinci sed</span>
+      </li> 
+      <li class="w3-padding-16">
+        <img src="/img/gambar7.jpg" alt="Image" class="w3-left w3-margin-right" style="width:50px">
+        <span class="w3-large">Dorum</span><br>
+        <span>Ultricies congue</span>
+      </li>   
+      <li class="w3-padding-16 w3-hide-medium w3-hide-small">
+        <img src="/img/gambar6.jpg" alt="Image" class="w3-left w3-margin-right" style="width:50px">
+        <span class="w3-large">Mingsum</span><br>
+        <span>Lorem ipsum dipsum</span>
+      </li>  
+    </ul>
+  </div>
+  <hr> 
+ 
+  <!-- Labels / tags -->
+  <div class="w3-card w3-margin">
+    <div class="w3-container w3-padding">
+      <h4>Tags</h4>
+    </div>
+    <div class="w3-container w3-white">
+    <p><span class="w3-tag w3-black w3-margin-bottom">Travel</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">New York</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">London</span>
+      <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">IKEA</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">NORWAY</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">DIY</span>
+      <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Ideas</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Baby</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Family</span>
+      <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">News</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Clothing</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Shopping</span>
+      <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Sports</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Games</span>
+    </p>
+    </div>
+  </div>
+  
+<!-- END Introduction Menu -->
+</div>
+
+<!-- END GRID -->
+</div><br>
+
+<!-- END w3-content -->
+</div>
+
+<!-- Footer -->
+<footer class="w3-container w3-dark-grey w3-padding-32 w3-margin-top">
+  <button class="w3-button w3-black w3-disabled w3-padding-large w3-margin-bottom">Previous</button>
+  <button class="w3-button w3-black w3-padding-large w3-margin-bottom">Next »</button>
+  <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
+</footer>
+
+</body>
+</html>
+
+my portfolio website
